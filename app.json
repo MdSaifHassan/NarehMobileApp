@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Prabhat Prime Membership Programme",
+    "slug": "prabhat-prime-membership-programme",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/output-onlinepngtools.png",
+    "description": "",
+    "ios": {
+      "bundleIdentifier": "com.naresh.prabhatseeds",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.naresh.prabhatseeds",
+      "versionCode": 1
+    }
+  },
+  "updates": {
+    "fallbackToCacheTimeout": 0
+  },
+  "assetBundlePatterns": [
+    "**/*"
+  ],
+  "ios": {
+    "supportsTablet": true
+  },
+  "web": {
+    "favicon": "./assets/output-onlinepngtools.png"
+  },
+  "extra": {
+    "firebase": {
+      "apiKey": "AIzaSyAgMfd24aLUz2TXg6sMTAYTZcKwk8_DpuM",
+      "authDomain": "nsl-prabhat.firebaseapp.com",
+      "databaseURL": "https://nsl-prabhat.firebaseio.com",
+      "projectId": "nsl-prabhat",
+      "storageBucket": "nsl-prabhat.appspot.com",
+      "messagingSenderId": "65064737301",
+      "appId": "1:65064737301:ios:8dcb307daabf5fd388cc1c"
+    }
+  }
+}
